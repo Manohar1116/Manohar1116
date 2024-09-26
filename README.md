@@ -7,7 +7,7 @@
 - I'm a Full Java Stack Java Trainee with technologies like Sql,Core Java,
 adv Java libraries, J2EE, Hibernet, Spring,  HTML, CSS, Java Script and reactjs.
   
-- 📫 How to reach me ...
+- 📫 How to reach me ....
 
 - call : 9676600314
 - mail : manoharbyri@gmail.com
